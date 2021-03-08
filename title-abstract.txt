@@ -1,5 +1,7 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+<Political Popularity of Misinformation>
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+<For our research on Political Popularity of Misinformation, we want to research the influence politicians have on Twitter, a well known social media platform for users to voice their opinions to a wider audience. The information shared on Twitter that we are interested in will be grouped into scientific information or misinformation. Politicians can easily sway public opinion with a simple tweet, therefore we wanted to analyze how much they influence other Twitter users.
+We gathered ten politicians who we considered to spread scientific information on Twitter and ten politicians who we considered to spread misinformation on Twitter.  We analyze the two groups to show how controversial a tweet appears. We do this by looking at tweet engagement as well as a popularity metrics to see growth over time.
+The results of our investigation showed that politicians who spread misinformation have a higher ratio value on average and have less overall likes over their tweets.  Our permutation tests shows that our scientific group has been consistently growing and increasing in growth over time.  In contrast, our misinformation group has grown significantly, but only in the more recent years. Overall, our results show that a politician can experience the most growth through spreading non-controversial, scientific information.>
